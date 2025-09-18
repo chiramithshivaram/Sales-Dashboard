@@ -8,11 +8,11 @@
 
 3. Tech Stack
    The dashboard was built using the following tools and technologies:
-   📊- Power BI Desktop – Main platform for visualization and reporting.
-   ⚙️- Power Query – Data transformation and cleaning for structured analysis.
-   📐- DAX (Data Analysis Expressions) – Custom calculations for KPIs, dynamic visuals, and time-based trends.
-   🔗- Data Modeling – Relationships set up for category, size, and ingredient analysis.
-   🗄️- MySQL Database – Primary data source used for storing and querying sales records.
+  - 📊 Power BI Desktop – Main platform for visualization and reporting.
+  - ⚙️ Power Query – Data transformation and cleaning for structured analysis.
+  - 📐 DAX (Data Analysis Expressions) – Custom calculations for KPIs, dynamic visuals, and time-based trends.
+  - 🔗 Data Modeling – Relationships set up for category, size, and ingredient analysis.
+  - 🗄️ MySQL Database – Primary data source used for storing and querying sales records.
 
 4. Data Source
    The dataset originated from a MySQL database, where raw transactional data was extracted, cleaned, and modeled before being visualized in Power BI.
