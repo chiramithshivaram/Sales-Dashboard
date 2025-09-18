@@ -25,4 +25,4 @@
    Visuals include bar charts, pie charts, donut charts, and KPI cards for easy interpretation.
    Filters (Weeks) to view sales performance for specific time ranges.
 
-6. Screenshots[Dashboard Preview]{https://github.com/chiramithshivaram/Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png}
+6. Screenshots[Dashboard Preview]{[https://github.com/chiramithshivaram/Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png](https://github.com/chiramithshivaram/Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)}
